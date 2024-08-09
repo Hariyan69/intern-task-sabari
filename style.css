@@ -303,12 +303,12 @@ nav {
   border-radius: 10px;
 }
 .project-mains-one{
-  background-image: url(css/assests/Landing\ page\ 1.png);
+  background-image: url(Landing\ page\ 1.png);
   background-size: cover;
   background-position: 50% 50%;
 }
 .project-mains-two{
-  background-image: url(css/assests/Rectangle\ 4226.png);
+  background-image: url(Rectangle\ 4226.png);
   background-size: cover !important;
   background-position: 50% 50%;
 }
